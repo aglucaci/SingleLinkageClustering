@@ -1,2 +1,2 @@
 # SingleLinkageClustering
-Does sac
+Does slc
